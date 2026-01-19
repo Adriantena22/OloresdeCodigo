@@ -17,7 +17,7 @@ public class Facturador {
 		 {0, 600}    
 	};
 
-	static String cliente = "Ayuntamiento de Badajoz";
+	static String cliente = "Ayuntamiento de Badajoz (prueba)";
 
 	public static void main(String[] args) throws Exception {
 		Double totalFactura = 0d;
